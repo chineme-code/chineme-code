@@ -1,10 +1,12 @@
 # Hello, I'm ChiChi 👋
 <a href="https://www.linkedin.com/in/chineme-code/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a graduate student at the University of New Mexico, and I’m excited to share that I’ll be graduating in December 2024. As an aspiring Cybersecurity Analyst, my focus areas include Security Operations Center (SOC) operations, Digital Forensics, and Web Security. I have a profound interest in technology and a strong dedication to solving complex problems. I enjoy working on labs and continually learning new aspects of the ever-evolving world of cybersecurity. Though I’m relatively new to the field, I’m proud of the progress I’ve made so far and am eager to continue growing.
+I am pursuing my graduate studies at the University of New Mexico and am glad to announce that I will be graduating in December 2024. As a future Cybersecurity Analyst, my areas of interests include Security Operations Center (SOC), Digital Forensics and Web Security. Technological surroundings catch my attention and their intrinsic problems motivate me in every aspect of Cybersecurity. I like performing lab activities and expanding my knowledge in the field of Cyber Security which is never static. Having said that, I may be considered a novice in the industry, however, I am proud of how far I have come in such a short time and I hope for more opportunities to reach even greater heights.
+
+
 
 ## Objective
-My journey in cybersecurity has ignited a passion for protecting digital assets, and I am now focused on transitioning into a professional role within this field. My ultimate goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills and knowledge to help defend against cyber threats.
+My journey in the field of cybersecurity has stemmed from my interest to secure digital assets, and I am currently in the process of looking for opportunities to work in this industry. As far as my objectives are concerned, I want to be a Tier 1 Analyst in the Security Operations Center domain and use my skillset for combating cyber threats.
 
 ## Skills
 
