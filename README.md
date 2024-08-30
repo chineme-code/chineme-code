@@ -11,12 +11,13 @@ My journey in cybersecurity has ignited a passion for protecting digital assets,
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">BTLO Labs</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Network Traffic Monitoring and PCAP investigation | <a href="https://www.dropbox.com/scl/fi/jkbf73ndivi2qccqjb51n/network-analysis-webshell-wireshark.docx?rlkey=7t8r1vmvei75h774reo0gu4nd&st=xfea94af&dl=0"> Network analysis- Webshell BTLO Labs</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/chineme-code/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/chineme-code/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/chineme-code/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/chineme-code/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Log analysis | <a href="https://github.com/chineme-code/LAB1--Log-analysis-wordpress-">Log Analysis (WordPress) Lab- BTLO </a>|
+| Email analysis | <a href="https://github.com/chineme-code/LAB-2-Email-Analysis-/blob/main/README.md">Email Analysis (Planet's Prestige) Lab- BTLO </a>|
 
 ## Tools
 
