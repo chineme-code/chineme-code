@@ -12,7 +12,7 @@ My journey in the field of cybersecurity has stemmed from my interest to secure 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Active Directory Lab</a>|
+| SIEM Implementation and Log Analysis          | Active Directory Lab|
 | Network Traffic Monitoring and PCAP investigation | <a href="https://www.dropbox.com/scl/fi/jkbf73ndivi2qccqjb51n/network-analysis-webshell-wireshark.docx?rlkey=7t8r1vmvei75h774reo0gu4nd&st=xfea94af&dl=0"> Network analysis- Webshell BTLO Labs</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/chineme-code/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/chineme-code/SOC-Automation-Lab">SOC Automation Lab</a>|
