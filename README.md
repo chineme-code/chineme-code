@@ -42,7 +42,24 @@ My journey in the field of cybersecurity has stemmed from my interest to secure 
     <img src="https://img.shields.io/badge/-Mandiant_IOCs-FF0000?&style=for-the-badge&logo=Mandiant&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-TheHive-FFD700?&style=for-the-badge&logo=TheHive&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ELK%20Stack-32CD32?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+
+### Threat Intelligence and Automation
+<div>
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF6347?&style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-008080?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tines-6A0DAD?&style=for-the-badge&logo=Tines&logoColor=white" />
+</div>
+
+### Digital Forensic
+<div>
+    <img src="https://img.shields.io/badge/-FTK%20Imager-4682B4?&style=for-the-badge&logo=Forensic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-708090?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+</div>
+
 
 ## Certifications
 <div>
